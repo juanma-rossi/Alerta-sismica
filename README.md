@@ -16,3 +16,5 @@ Sismos de Ciudad de México:
 [http://www2.ssn.unam.mx:8080/catalogo/] Catalogo de Sismos del area de Geofísica de la Universidad Autónoma de México. Formato .csv archivos desde 1900
 Se puede filtrar la información por período, magnitud, profundidad y estado.
 
+[http://geografica.cenapred.unam.mx:8080/reporteSismosGobMX/] Reportes sismicos de México (se actualiza cada 24 hs)
+

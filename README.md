@@ -18,3 +18,5 @@ Se puede filtrar la información por período, magnitud, profundidad y estado.
 
 [http://geografica.cenapred.unam.mx:8080/reporteSismosGobMX/] Reportes sismicos de México (se actualiza cada 24 hs)
 
+[http://www.atlasnacionalderiesgos.gob.mx/archivo/descargas.html] Gobierno de México - Guía para Reducción del Riesgo Sismico
+

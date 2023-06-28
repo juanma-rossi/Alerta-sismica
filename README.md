@@ -1,6 +1,9 @@
-# Proyecto Medición de Sismos, Groups07
+<p align="center"><img src=https://drive.google.com/file/d/1F602gUReXTpHSaOXHdvV2uvX2nyBdCNF/view?usp=drive_link></p>
 
-Este proyecto está a cargo del equipo de atención de desastres de México, en consideración con la posible alianza tri-nacional en conjunto con el Estados unidos (USGS) y Japón (JMA) llamado ***“Working towards global standardization of seismological networks and effective communication to the civilian community”***. Se realizó el proyecto de **Alertas Sísmicas** a partir de los datos históricos y actuales sobre sismos de cada uno de los países miembros.
+# Proyecto Creación de "Sistema de Alertas Sísmicos" 
+<p align="center"><img src=http://geografica.cenapred.unam.mx/BoletinSismos/imagenes/Monitoreo/intensidades.png></p>
+
+Este proyecto está a cargo del equipo de atención de desastres de México (SSN), en consideración con la posible alianza tri-nacional en conjunto con el Estados unidos (USGS) y Japón (JMA) llamado ***“Working towards global standardization of seismological networks and effective communication to the civilian community”***. Se realizó el proyecto de **Alertas Sísmicas** a partir de los datos históricos y actuales sobre sismos de cada uno de los países miembros.
 
 ## Entendimiento se la situación actual(Marco Teórico)
 
@@ -62,11 +65,9 @@ El equipo ha decidido, a groso modo ha llegado recabará los datos desde la API,
 
 **Discord:** Mediante esta plataforma el equipo se comunica entre a diario y tome las decisiones importantes. 
 
-**Trello:** Se registra el flujo de las tareas asignadas y el control de su cumplimiento.
-
 **Google Meet:** Plataforma para presentarle al project manager el estado de las tareas y objetivos.
 
-**Snowflake:** Como recurso de almacenamiento y procesamiento de la data desde la nuve.
+**AWS:** Como recurso de almacenamiento y procesamiento de la data desde la nube.
 
 **Power Bi:** Herramienta de Visualización de los datos para comunicar el resultado de los análisis.
 
@@ -82,7 +83,7 @@ Para la ejecución de este proyecto los 4 integrantes del equipo se dividen en 2
 
 (por completar)
 
-### Análisis Preliminar de la Calidad del Dato
+### Búsqueda Preliminar de Información
 
 (por completar)
 

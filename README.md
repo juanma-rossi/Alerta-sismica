@@ -45,6 +45,9 @@ El proyecto persigue la segmentación, filtración y transformación de la data 
 - Reducción del tiempo de emisión de alerta en relación al año anterior en Japón, México, Estados Unidos.
 - Reducción de bajas humanas en sismos de riesgo grave, en comparación a eventos pasados.
 
+## Gestión del proyecto
+Para la gestión del proyecto se está trabajando con Github Projects [https://github.com/users/gabygonalons/projects/1/views/1] utilizando el esquema de tarjetas KanBan.
+
 ## Repositorio del proyecto
 
 Para el trabajo colaborativo el equipo estará trabajando con el repositorio público de Github [juanma-rossi/Groups01 (github.com)](https://github.com/juanma-rossi/Groups01), dónde estará contenida la documentación oficial del proyecto, y el despliegue de las distintas versiones y cambios.

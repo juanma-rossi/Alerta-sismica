@@ -56,7 +56,7 @@ Los avances tecnológicos han permitido el accceso a los datos prácticamente en
 
 ## Alcance
 
-El proyecto persigue la segmentación, filtración y transformación de la data disponible, acerca de los distintos eventos sísmicos que se encuentren relacionados o tengan implicación con el área geográfica de los países miembros de la alianza Tri-Nacional y a su vez, contengan la información necesaria para el cumplimiento de los objetivos trazados.
+El proyecto persigue la segmentación, filtración y transformación de la data disponible, acerca de los distintos eventos sísmicos que se encuentren relacionados o tengan implicación con el área geográfica de los países miembros de la alianza tri-Nacional y a su vez, contengan la información necesaria para el cumplimiento de los objetivos trazados.
 
 ## Indicadores Claves de Rendimiento (KPI)
 
@@ -73,7 +73,10 @@ Para el trabajo colaborativo el equipo estará trabajando con el repositorio pú
 
 ## Solución Propuesta
 
-El equipo ha decidido, a groso modo ha llegado recabará los datos desde la API, de [Documentación de API - Catálogo de terremotos (usgs.gov)](https://earthquake.usgs.gov/fdsnws/event/1/) , cargarlos a la plataforma de SnowFlakes, automatizar el procesado de la data, desplegar el modelo de clasificación de machine learning, analizar los datos obtenidos y crear un dashboard interactivo con la información clave.
+**Procesos involucrados**
+- Extracción de datos de las API:[Documentación de API - Catálogo de terremotos (usgs.gov)](https://earthquake.usgs.gov/fdsnws/event/1/) ,
+- Preprocesamiento de los
+- cargarlos a la plataforma de SnowFlakes, automatizar el procesado de la data, desplegar el modelo de clasificación de machine learning, analizar los datos obtenidos y crear un dashboard interactivo con la información clave.
 
 ### Stack Tecnológico:
 

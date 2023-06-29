@@ -1,18 +1,33 @@
-<p align="right"><img src="https://i.ibb.co/gMYDm6Y/Logo-Chiquito.png"></p>
+<p align="right"><img src="https://i.ibb.co/DbTsbMk/Banner-para-Linkedin-Licenciada-Marketing-Minimalista-Beige.png"></p>
 
-# Proyecto Creación de "Sistema de Alertas Sísmicos" 
+<h1 align="center">
+  :large_blue_circle: Proyecto "Creación de un Sistema de Alertas Sísmicas"
+</h1>
 
-Este proyecto está a cargo del equipo de atención de desastres de México (SSN), en consideración con la posible alianza tri-nacional en conjunto con el Estados unidos (USGS) y Japón (JMA) llamado ***“Working towards global standardization of seismological networks and effective communication to the civilian community”***. Se realizó el proyecto de **Alertas Sísmicas** a partir de los datos históricos y actuales sobre sismos de cada uno de los países miembros.
+El presente proyecto de *Creación de un Sistema de Alertas Sísmicas" surge como parte de un proyecto mayor denominado  ***“Working towards global standardization of seismological networks and effective communication to the civilian community”***. El mismo surge del trabajo mancumunado entre el *Servicio Geológico de Estados Unidos* **UGS**, la *Agencia Meteorológica de Japón* **JMA** y el *Servicio Sismológico Nacional" de México **SSN** que buscan promover la normalización de las redes sísmicas a nivel mundial  y la comunicación eficaz a la sociedad de los eventos sísmicos.
 
 ## Entendimiento se la situación actual(Marco Teórico)
 
 ### ¿Qué son los sismos?
 
-Los terremotos suelen estar asociados mayormente a una condición natural de la tierra como planeta, la cual tiene una capa superior llamada Litosfera, se diferencia de las otras capas del planeta por ser sólida, más fría y encontrarse en la parte exterior.  La litosfera está dividida en distintas áreas denominadas placas tectónicas. 
+Un terremoto​, también llamado sismo, temblor de tierra o movimiento telúrico, es la sacudida brusca y pasajera de la corteza terrestre. 
+El punto de origen de un terremoto se denomina foco o hipocentro, a partir de allí se propaga en forma de ondas sísmicas.  
+
+Los terremotos suelen estar asociados mayormente a una condición natural de la tierra como planeta, la cual tiene una capa superior llamada Litosfera, que se diferencia de las otras capas del planeta por ser sólida, más fría y encontrarse en la parte exterior.  La litosfera está dividida en distintas áreas denominadas placas tectónicas. 
 
 Los movimientos de las capas internas de la tierra, hacen que las placas tectónicas se muevan en distintas direcciones, se conoce que la mayoría de las manifestaciones sísmicas de la litosfera se producen en los límites de las placas, debido a la liberación de energía desde el punto de fricción, el sismo emite su fuerza en forma de 3 ondas de energía, llamadas primarias, secundarias y superficial, siendo la última la que mas nos afecta en forma de daños. *Fuente: Instituto Geográfico Nacional de España, [Sismología - Instituto Geográfico Nacional (ign.es)](https://www.ign.es/web/ign/portal/sis-teoria-general)*
 
 Otra causa asociada a menor escala, son los terremotos inducidos, los cuales pueden estar relacionados con el llenado de embalses, agotamiento de los yacimientos de petróleo y gas, minería, eliminación subterránea de desechos, generación de energía geotérmica y franking. *Fuente: libertaddigital.com, [La verdad sobre la relación entre 'fracking' y terremotos - Libertad Digital](https://www.libertaddigital.com/ciencia-tecnologia/ciencia/2015-02-25/la-verdad-sobre-la-relacion-entre-fracking-y-terremotos-1276541587/)*
+
+Cuando ocurre un sismo, es importante evaluar su **magnitud** y **profundidad** para comprender la **naturaleza** y el **impacto** del evento.
+
+- **Magnitud del sismo**: La magnitud de un sismo es una medida cuantitativa de la energía liberada durante el movimiento de las placas tectónicas. Se calcula utilizando escalas como la *Escala de Richter* o la *Escala de Magnitud de Momento*. Conocer la magnitud del sismo nos proporciona información sobre la fuerza y la violencia del terremoto en su origen. Es una medida fundamental para comparar y clasificar diferentes terremotos.
+
+- **Profundidad del sismo**: La profundidad del sismo se refiere a la ubicación vertical en la cual se origina el terremoto debajo de la superficie de la Tierra. Puede variar desde sismos superficiales hasta sismos profundos que se generan a gran profundidad. Conocer la profundidad del sismo es importante porque puede afectar la propagación de las ondas sísmicas y, por lo tanto, la forma en que el terremoto se siente en la superficie. Además, la profundidad puede influir en el nivel de daño causado por el sismo, ya que los terremotos más superficiales tienden a ser más destructivos en comparación con los sismos profundos.
+
+Por otro lado resulta relevante conocer la **intensidad** de los sismos. Si bien la magnitud y la profundidad son medidas objetivas del terremoto, la intensidad es subjetiva puesto que se refiere a los efectos y daños que el sismo causa en áreas pobladas. Conocer la intensidad es crucial para comprender el impacto real del sismo en términos de daños a edificios, infraestructuras y la vida de las personas. También ayuda a guiar las labores de rescate y respuesta ante desastres. Se evalúa mediante la *Escala de Mercalli* o escalas similares, que describen los efectos observados en las personas, estructuras y el entorno.
+
+En resumen, la magnitud y la profundidad del sismo proporcionan información sobre la fuerza y el origen del terremoto, mientras que la intensidad nos ayuda a comprender los efectos y el alcance de los daños causados. Estos datos son esenciales para la investigación sísmica, la planificación de la mitigación de riesgos, la respuesta a desastres y el diseño de estructuras resistentes a los terremotos. *Fuente: http://www.ssn.unam.mx/, [Magnitud de un sismo]( http://www.ssn.unam.mx/jsp/reportesEspeciales/Magnitud-de-un-sismo.pdf)*
 
 ### ¿Qué acciones se han tomado?
 

@@ -1,7 +1,9 @@
-<p align="center"><img src=https://drive.google.com/file/d/1F602gUReXTpHSaOXHdvV2uvX2nyBdCNF/view?usp=drive_link></p>
+<p align="right">
+  <img src="https://i.ibb.co/qgrt3cm/Logo-Grupo-7-150px.png">
+</p>
+
 
 # Proyecto Creación de "Sistema de Alertas Sísmicos" 
-<p align="center"><img src=http://geografica.cenapred.unam.mx/BoletinSismos/imagenes/Monitoreo/intensidades.png></p>
 
 Este proyecto está a cargo del equipo de atención de desastres de México (SSN), en consideración con la posible alianza tri-nacional en conjunto con el Estados unidos (USGS) y Japón (JMA) llamado ***“Working towards global standardization of seismological networks and effective communication to the civilian community”***. Se realizó el proyecto de **Alertas Sísmicas** a partir de los datos históricos y actuales sobre sismos de cada uno de los países miembros.
 

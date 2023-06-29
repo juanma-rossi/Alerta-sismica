@@ -83,7 +83,7 @@ Para la ejecución de este proyecto los 4 integrantes del equipo se dividen en 2
 
 ### Cronograma General
 
-(por completar)
+<img src=https://i.ibb.co/vJJHjx1/Crono-General.png>
 
 ### Búsqueda Preliminar de Información
 

@@ -1,7 +1,4 @@
-<p align="right">
-  <img src="https://i.ibb.co/qgrt3cm/Logo-Grupo-7-150px.png">
-</p>
-
+<p align="right"><img src="https://i.ibb.co/gMYDm6Y/Logo-Chiquito.png"></p>
 
 # Proyecto Creación de "Sistema de Alertas Sísmicos" 
 
@@ -83,7 +80,7 @@ Para la ejecución de este proyecto los 4 integrantes del equipo se dividen en 2
 
 ### Cronograma General
 
-<img src=https://i.ibb.co/vJJHjx1/Crono-General.png>
+<img src=https://i.ibb.co/NxrWbn3/Crono-General-1.png>
 
 ### Búsqueda Preliminar de Información
 

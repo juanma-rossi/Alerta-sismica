@@ -1,0 +1,115 @@
+"Search Parameters"	"Year"	"Mo"	"Dy"	"Hr"	"Mn"	"Sec"	"Tsu"	"Vol"	"Location Name"	"Latitude"	"Longitude"	"Focal Depth (km)"	"Mag"	"MMI Int"	"Deaths"	"Death Description"	"Missing"	"Missing Description"	"Injuries"	"Injuries Description"	"Damage ($Mil)"	"Damage Description"	"Houses Destroyed"	"Houses Destroyed Description"	"Houses Damaged"	"Houses Damaged Description"	"Total Deaths"	"Total Death Description"	"Total Missing"	"Total Missing Description"	"Total Injuries"	"Total Injuries Description"	"Total Damage ($Mil)"	"Total Damage Description"	"Total Houses Destroyed"	"Total Houses Destroyed Description"	"Total Houses Damaged"	"Total Houses Damaged Description"
+"[""Year >= 1900"",""Country = MEXICO""]"																																						
+	1900	1	20	6	33	30			"MEXICO"	20	-105	10	7.4									1												1				
+	1900	5	16	20	12	0			"MEXICO:  NEAR COAST OF JALISCO"	20	-105	60	7.8																									
+	1902	1	16						"MEXICO:  GUERRERO"	17.6	-99.7		7		2	1						2					2	1			2	1		2				
+	1902	9	23	20	18	30			"MEXICO:  VENUSTIANO CARRANZA,CHIAPAS,CHIS,TABASCO"	16.6	-92.6	100	7.8									3												3				
+	1902	12	12	23	10				"MEXICO:  BAJA CALIFORNIA"	29	-114	60	7.8																									
+	1903	1	14	1	47	36			"MEXICO:  OFF COAST OF GUERRERO"	15	-98	33	7.7																									
+	1903	7	16				1296		"MEXICO:  ACAPULCO"	16.7	-99.2																											
+	1905	5	9			0			"MEXICO:  JALISCO"	20.3	-103.4											3																
+	1906	4	10	21	22	0			"MEXICO:  REVILLA GIGEDO ISLANDS"	19	-113.8	60	7.5																									
+	1907	4	15	6	8	6	1353		"MEXICO:  GUERRERO"	17	-100	60	8.3		8	1						2		3			8	1						2		3		
+	1907	10	16	14	57	0			"MEXICO:  GULF OF CALIFORNIA"	28	-112.5	60	7.7																									
+	1908	3	26	23	3	30			"MEXICO:  GUERRERO"	18	-99	80	8.1									2												2				
+	1908	3	27	3	45	30			"MEXICO:  GUERRERO"	17	-101		7.5																									
+	1909	7	30	10	51	54	1382		"MEXICO:  ACAPULCO"	16.8	-99.8		7.8									3		3										3		3		
+	1909	10	31	10	23	0			"MEXICO:  GUERRERO,MICHOACAN"	17	-101.2		4.7									3																
+	1910	9	24	3		0			"MEXICO:  OAXACA"	16.8	-95.9		6.9	9								2																
+	1911	6	7	11	2	42			"MEXICO:  MICHOACAN"	17.5	-102.5	11	7.9		45	1			22	1							45	1			22	1						
+	1911	12	16	19	14				"MEXICO:  NEAR COAST OF GUERRERO"	17	-100.7	50	7.6	4																								
+	1912	5	8						"MEXICO:  GUADALAJARA"	20.4	-103.2											3																
+	1912	9	19						"MEXICO:  ACAMBAY-TIXMADEJE"	19.9	-99.9											3																
+	1912	11	19	13	18	0			"MEXICO:  CENTRAL, ACAMBAY, TIXMADEJE"	19.9	-99.8		7.8									3																
+	1914	3	30	0	41	0			"MEXICO:  CHIAPAS"	16.8	-92.2	150	7.5																									
+	1917	12	29	22	50	20			"MEXICO:  NEAR OAXACA COAST"	15	-97	33	7.7																									
+	1920	1	3	21	48	3			"MEXICO:  VERACRUZ: COZAUTLAN, PUEBLA: PATLANALA"	19.26	-96.97		7.8	10	648	3			167	3		2					648	3			167	3		2				
+	1921	4	30	11	4	0			"MEXICO:  NEAR COAST OF JALISCO"	19.7	-104.3		7.7																									
+	1925	11	16	11	54	54	1560		"S. MEXICO"	18.5	-107	80	7																					2				
+	1928	2	10	4	39	0			"MEXICO:  OAXACA,COLIMA,PUEBLA,GUERRERO,MORELOS"	17.8	-97.6	100	7.7									3																
+	1928	3	22	4	17		1592		"MEXICO:  OAXACA"	15.67	-96.1	60	7.7																									
+	1928	4	16	21	26	15			"MEXICO:  OAXACA"	17.75	-97.1		7.8									1												1				
+	1928	6	17	3	19	33.1	1605		"MEXICO:  OAXACA"	16.028	-97.036	35	7.7		4	1						2					4	1						2				
+	1928	10	9	3	1	8			"MEXICO:  OAXACA"	16	-97	60	7.6																									
+	1931	1	15	1	50	0			"MEXICO:  OAXACA"	16.1	-96.8	50	7.9	10																								
+	1932	6	3	10	36	58.9	1649		"MEXICO:  NEAR COAST OF JALISCO"	19.623	-103.919	35	8.1	10	400	3			120	3		3		3			400	3			120	3		3		3		
+	1932	6	18	10	12	33.3	1651		"MEXICO:  CENTRAL, COLIMA"	19.081	-103.631	15	7.8	10								2												2				
+	1932	6	22	12	59	30.6	1652		"MEXICO:  CENTRAL"	19.242	-104.383	25	7.7									3	400	3			75	2			100	2		3	400	3		
+	1934	11	30	2	5	10	3308		"MEXICO:  JALISCO"	18.5	-105.5	5	7									3												3				
+	1935	12	14			0			"MEXICO:  TUXTLA GUTIERREZ,GUERRERO,MEXICO CITY"	16.5	-93.1											3																
+	1937	7	26	3	47	9.4			"MEXICO:  CENTRAL, PUEBLA:  ESPERANZA, VERACRUZ"	18.523	-95.878	35	7.2		34	1						2					34	1						2				
+	1937	10	5			0			"MEXICO:  CHILPANCINGO,TIXTLA"	17.3	-99.3											3																
+	1937	12	23	13	18	3.5			"MEXICO:  GUERRERO:  OMETEPEC"	16.656	-98.338		7.4		4	1						2		1			4	1						2		1		
+	1938	1	2			0			"MEXICO:  OMETEPEC"	16.1	-98.3			7								3																
+	1938	6	28			0			"MEXICO:  TELOLOAPAN"	18.2	-99.5											2																
+	1941	4	15	19	9	0			"MEXICO:  MICHOACAN, COLIMA, JALISCO"	18.9	-102.9	60	7.9	7																								
+	1942	11	12			0			"MEXICO:  JUCHITAN"	16.3	-95											3																
+	1943	2	22	9	20	48.6			"MEXICO:  GUERRERO: PARICUTIN VOLCANO FORMS"	17.397	-101.37	20	7.4	7	5	1						3					5	1						3				
+	1948	12	4	0	22	48	1785		"MEXICO:  MARIA MADRE ISLAND"	22	-106		6.9		4	1			21	1		3					4	1			21	1		3				
+	1950	11	17	19	28	0			"MEXICO:  GUERRERO"	16.5	-100.4		6.8	11								2																
+	1950	12	14	14	15	49	1813		"MEXICO:  ACAPULCO"	16.48	-98.22	50	7.5	5								3												3				
+	1951	7	9	0	3	53.5			"MEXICO:  OAXACA:  MIAHIATLAN"	15.99	-96.605	25	6		1	1						2					1	1						2				
+	1954	2	5	15	18	4.9			"MEXICO:  CHIAPAS"	17.283	-92.382	85	6.1		6	1					17	3				4	6	1					17	3				4
+	1956	1	8	7	11	26			"MEXICO:  GUERRERO"	17	-99.5		6.5							3		3										3		3				
+	1957	7	28	8	40	1	1870		"MEXICO:  ACAPULCO,MEXICO CITY"	16.5	-99.1	25	7.9	7	65	2				3	25	4		3			65	2				3	25	4		3		
+	1959	5	24	19	17	0			"MEXICO:  OAXACA;"	17	-96.3	100	6.8									3																
+	1959	8	26	8	25	31			"MEXICO:  GULF OF CAMPECHE"	18.3	-94.4		6.9		25	1			200	3		3		3			25	1			200	3		3		3		
+	1962	5	11	14	11	54.1	1931		"MEXICO:  S"	17.2	-99.6	40	7	8	4	1				3		2		2			4	1				3		2		2		
+	1962	5	19	14	58	15	1932		"MEXICO:  S"	17.2	-99.5	33	7.2		3	1			16	1		2		2			3	1			16	1		2		2		
+	1964	7	6	7	22	13.2			"MEXICO:  GUERRERO"	18.136	-100.605	93	7.3		78	2			50	1		3		3			78	2			50	1		3		3		
+	1965	8	23	19	46	2.9	1975		"MEXICO:  ME\XICO CITY, OAXACA"	16.3	-95.8	28	7.8		6	1						1				1	6	1						1				1
+	1968	8	2	14	6	43.7	5847		"MEXICO:  OAXACA, GUERRERO"	16.519	-97.739	25	7.3	7	18	1					2.4	2					18	1					2.4	2				
+	1968	9	25	10	38	39.5	2010		"MEXICO-GUATEMALA:  S CHIAPAS"	15.573	-92.536	124	6.1		20	1			500	3		2					20	1			500	3		2				
+	1973	1	30	21	1	12.5	2058		"MEXICO:  S, FARIAS, TECOMAN"	18.48	-103	43	7.5		56	2			390	3		2		2			56	2			390	3		2		2		
+	1973	8	28	9	50	40			"MEXICO:  VERACRUZ, MEXICO CITY"	18.27	-96.6	84	6.2	7	600	3				4		3					600	3				4		3				
+	1976	6	7	14	26	39.1			"MEXICO:  MEXICO CITY"	17.4	-100.64	45	6.4									2																
+	1978	3	19	1	39	14			"MEXICO:  ACAPULCO"	17.03	-99.74	36	6.6		1	1			25	1		2					1	1			25	1		2				
+	1978	11	29	19	52	47.6	2109		"MEXICO:  OAXACA"	16.01	-96.591	18	7.7		9	1				3		2					9	1				3		2				
+	1979	3	14	11	7	16.3	2112		"MEXICO:  GUERRERO"	17.813	-101.276	49	7.6		5	1			35	1	30	4	200	3			5	1			35	1	30	4	200	3		
+	1980	6	9	3	28	18.9			"MEXICO:  NW"	32.22	-114.985	5	6.4	5	1	1			100	2		2					1	1			100	2		2				
+	1980	10	24	14	53	35.1			"MEXICO:  S, HUAJAPAN DE LEON, OAXACA"	18.211	-98.24	72	6.4	9	300	3				3	5	2		3			300	3				3	5	2		3		
+	1981	10	25	3	22	15.5	2132		"MEXICO:  MICHOACAN: LAZARO CARDENAS"	18.048	-102.084	33	7.3		3	1			28			2				2	3	1			28	1		2				2
+	1982	3	28	4	16	52.5		3518	"MEXICO:  CHIAPAS"	17.25	-93.21	9	3.5		10	1			200	3		1					1879	4	1755	4			3.3	2				
+	1982	6	7	10	59	40.1			"MEXICO:  GUERERRO, ORZIBA, OAXACA, GUADALUPE"	16.558	-98.358	34	7	6	9	1				3		2					9	1				3		2				
+	1983	1	24	8	17	39.6			"MEXICO:  OAXACA:   SALINA CRUZ"	16.147	-95.232	57	6.7	7								2												2				
+	1985	9	19	13	17	47.3	2162		"MEXICO:  MICHOACAN:  MEXICO CITY"	18.19	-102.533	28	8.1	9	9500	4			30000	4	4000	4		4			9500	4			30000	4	4000	4		4		
+	1985	9	21	1	37	13.4	2163		"MEXICO:  SW COAST:  MEXICO CITY"	17.802	-101.647	31	7.6	6		2						2						2						2				
+	1989	4	25	14	29	0.5			"MEXICO:  MEXICO CITY, ACAPULCO"	16.773	-99.328	19	6.8	6	3	1				1		2					3	1				1		2				
+	1995	9	14	14	4	31.4	2251		"MEXICO:  GUERRERO, OAXACA, PUEBLA, MEXICO CITY"	16.779	-98.597	23	7.4		3	1			100	2		2					3	1			100	2		2				
+	1995	10	9	15	35	53.9	2252		"MEXICO:  JALISCO, MANZANILLO, SAN PATRICIO MELAQUE"	19.055	-104.205	33	8		49	2			200	3		2		2			50	1			200	3		2		2		
+	1996	2	25	3	8	15.8	2262		"MEXICO:  OFF COAST OF GUERRERO"	15.978	-98.07	21	7.1																									
+	1997	1	11	20	28	26			"MEXICO:  MICHOACAN, ARTEAGA"	18.219	-102.756	33	7.2		1	1						2					1	1						2				
+	1998	2	3	3	2	0.2			"MEXICO:  OAXACA, SAN AGUSTIN, SAN FRANCISCO"	15.883	-96.298	33	6.3									2												2				
+	1999	6	15	20	42	5.9			"MEXICO:  PUEBLA, VERACRUZ, OAXACA, MORELOS, GUERRERO"	18.386	-97.436	70	7		20	1			200	3	226.8	4			2000	4	20	1			200	3	226.8	4			2000	4
+	1999	6	21	17	43	4.5			"MEXICO:  GUERRERO:  COAHUAYUTLA; MICHOACAN: CUITZEO"	18.324	-101.539	69	6.3									3			1300	4								3			1300	4
+	1999	9	30	16	31	15.6			"MEXICO:  OAXACA"	16.059	-96.931	61	7.5	8	35	1			215	3	164.8	4			2000	4	35	1			215	3	164.8	4			2000	4
+	2002	1	30	8	42	3.4			"MEXICO:  VERACRUZ:  SAN ANDRES TUXTLA, TUXTEPEC"	18.194	-95.908	109	5.9									1				2								1				2
+	2002	2	22	19	32	41.7			"MEXICO:  MEXICALI, BAJA CALIFORNIA"	32.319	-115.322	7	5.5									1												1				
+	2002	9	25	18	14	48.5			"MEXICO:  ACAPULCO"	16.87	-100.113	6	5.3						2	1		1				2					2	1		1				2
+	2003	1	22	2	6	34.6	2402		"MEXICO:  VILLA DE ALVAREZ, COLIMA, TECOMAN, JALISCO"	18.77	-104.104	24	7.5	8	29	1			300	3		3	2005	4	6615	4	29	1			300	3		3	2005	4	6615	4
+	2004	1	1	23	31	50			"MEXICO:  GUERRERO, MEXICO CITY"	17.488	-101.303	29	6.1									1												1				
+	2006	9	10	14	56	8.1			"GULF OF MEXICO"	26.319	-86.606	14	5.8																									
+	2007	4	13	5	42	23			"MEXICO:  GUERRERO, ATOYAC"	17.302	-100.198	34	6	5								1	2	1										1	2	1		
+	2008	2	9	7	12	5.8			"MEXICO:  BAJA CALIFORNIA"	32.456	-115.315	3	5.1									1												1				
+	2009	12	30	18	48	57.7			"MEXICO:  MEXICALI"	32.437	-115.165	9	5.9									1												1				2
+	2010	4	4	22	40	43.1			"MEXICO:  BAJA CALIFORNIA"	32.297	-115.278	4	7.2		2	1			233	3	1150	4				3	2	1			233	3	1150	4				3
+	2010	6	30	7	22	27.6			"MEXICO:  SAN ANDRES HUAXPALTEPEC"	16.396	-97.782	20	6.2		1	1											1	1										
+	2011	12	11	1	47	25.9			"MEXICO:  GUERRERO"	17.844	-99.963	54	6.4		2	1			5	1		2			70	2	2	1			5	1		2			70	2
+	2012	3	20	18	2	47.4	5447		"MEXICO:  GUERRERO, OAXACA"	16.493	-98.231	20	7.4	8	2	1			13	1	600	4	800	3			2	1			13	1	600	4	800	3		
+	2013	4	22	1	16	32	5752		"MEXICO:  MICHOACAN: LAZARO CARDENAS"	18.081	-102.182	30	6	6																								
+	2013	8	21	12	38	29.7			"MEXICO:  SAN MARCOS, ACAPULCO"	16.878	-99.498	21	6.2	8					1	1		1				1					1	1		1				1
+	2014	4	18	14	27	24.9	5563		"MEXICO:  GUERRERO; MEXICO CITY"	17.397	-100.972	24	7.2	8								1			127	2								1			127	2
+	2014	5	8	17	0	14.8			"MEXICO:  TECPAN"	17.235	-100.746	17	6.4	9								1				1								1				1
+	2014	7	7	11	23	54.8			"MEXICO; GUATEMALA:  SAN MARCOS"	14.724	-92.461	53	6.9	8	3	1			33	1		1		1	50	1	3	1			33	1		1		1	50	1
+	2014	7	29	10	46	14.7			"MEXICO:  OAXACA"	17.682	-95.653	107	6.3	7	1	1			1	1		2				2	1	1			1	1		2				2
+	2015	12	17	19	49	5			"MEXICO:  COCOTITLAN"	15.802	-93.633	85	6.6	5	2	1											2	1										
+	2017	9	8	4	49	2	5658		"MEXICO: OAXACA, CHIAPAS, TABASCO; GUATEMALA"	14.761	-94.103	46	8.2	9	98	2			251	3	4000	4	47468	4	94027	4	98	2			251	3	4000	4	47468	4	94027	4
+	2017	9	19	18	14	7			"MEXICO: MEXICO CITY, MORELOS, PUEBLA"	18.339	-98.68	39	7.1	9	369	3			6000	4	8000	4	226	3	184000	4	369	3			6000	4	8000	4	226	3	184000	4
+	2017	9	23	12	53	48			"MEXICO:  OAXACA"	16.626	-95.078	10	6.1		5	1			7	1		1	11	1			5	1			7	1		1	11	1		
+	2018	2	16	23	39	28			"MEXICO:  OAXACA"	16.386	-97.979	22	7.2		14	1			19	1		2			1000	3	14	1			19	1		2			1000	3
+	2019	2	1	16	19	29			"MEXICO:  CHIAPAS; GUATEMALA:  SAN MARCOS"	14.68	-92.453	66	6.7						4	1		2				3					4	1		2				3
+	2020	6	23	15	29	5	5751		"MEXICO: OAXACA"	16.029	-95.901	26	7.4		10	1			24	1		4			8123	4	10	1			24	1		4			8123	4
+	2021	9	8	1	47	47	5806		"MEXICO:  GUERRERO"	16.982	-99.773	20	7	7	3	1				1	200	4			7317	4	3	1				1	200	4			7317	4
+	2022	5	25	21	43	2	5850		"MEXICO:  OAXACA"	16.325	-95.856	34	5.5	5																								
+	2022	9	19	18	5	6	5859		"MEXICO:  MICHOACAN, COLIMA, JALISCO"	18.367	-103.252	15	7.6	9	2	1			10	1	25	4	800		6084		2	1			10	1	25	4	800		6084	4
+	2022	9	22	6	16	9	5861		"MEXICO: MEXICO CITY, MICHOACAN"	18.308	-102.923	24	6.8	8	3	1			5	1		2					3	2			5	1		2				

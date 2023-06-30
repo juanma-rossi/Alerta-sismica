@@ -90,6 +90,8 @@ Para el trabajo colaborativo el equipo estará trabajando con el repositorio pú
 
 **Power Bi:** Herramienta de Visualización de los datos para comunicar el resultado de los análisis.
 
+**Python:** Lenguaje de Progamación principal para la manipulación de los datos.
+
 ### Metodología de Trabajo
 
 La metodología de trabajo a utilizar se denomina scrum, entra dentro de las metodologías ágiles.

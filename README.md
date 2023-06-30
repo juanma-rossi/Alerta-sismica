@@ -32,11 +32,11 @@ En resumen, la magnitud y la profundidad del sismo proporcionan información sob
 ### ¿Qué acciones se han tomado?
 
 La humanidad ha venido documentando cada uno de estos movimientos telúricos con el fin de crear mecanismos de educación, prevención y predicción.
-En la actualidad, **GSN** es una red en tiempo real cuyos datos son utilizados rutinariamente por grupos operativos de monitoreo, tanto en los Estados Unidos como a nivel internacional. En los Estados Unidos, el **Centro Nacional de Información Sísmica** recibe datos de todas las estaciones de GSN a nivel mundial en tiempo real para ubicar terremotos. Los datos de esta red son una entrada esencial para el sistema de alarma automatizado **USGS PAGER** (localizador)  utilizado para evaluar de manera rápida y exacta la gravedad de los daños causados por un terremoto y para proporcionar información a organizaciones de socorro en emergencias, agencias gubernamentales y los medios de comunicación con una estimación del impacto social de la catástrofe potencial.
+En la actualidad, **GSN** es una red en tiempo real cuyos datos son generados diariamente por grupos operativos de monitoreo, tanto en los Estados Unidos como a nivel internacional. En los Estados Unidos, el **Centro Nacional de Información Sísmica** recibe datos de todas las estaciones de GSN a nivel mundial en tiempo real para ubicar terremotos. Los datos de esta red son una entrada esencial para el sistema de alarma automatizado **USGS PAGER** (localizador)  utilizado para evaluar de manera rápida y exacta la gravedad de los daños causados por un terremoto y para proporcionar información a organizaciones de socorro en emergencias, agencias gubernamentales y los medios de comunicación con una estimación del impacto social de la catástrofe potencial.
 
 ### Justificación
 
-Los avances tecnológicos han permitido el accceso a los datos prácticamente en tiempo real desde cualquier lugar del planeta, no obstante la captación de datos se realiza desde diversas instituciones en distintos puntos del platena con equipamientos variados.  Consecuentemente los datos resultantes de los monitoreos realizados presetan varidos formatos y calidades por le resulta imperioso el pre-procesamiento de los mismos y su adecuación a los estandares de la Red.
+Los avances tecnológicos han permitido el accceso a los datos prácticamente en tiempo real desde cualquier lugar del planeta, no obstante la captación de datos se realiza desde diversas instituciones en distintos puntos del platena con equipamientos variados.  Consecuentemente los datos resultantes de los monitoreos realizados presetan variados formatos y calidades por lo que resulta imperioso el pre-procesamiento de los mismos y su adecuación a los estandares de la Red.
 
 ## Misión
 
@@ -46,10 +46,9 @@ Los avances tecnológicos han permitido el accceso a los datos prácticamente en
 
 *Colaborar con la alianza tri-nacional con el máximo nivel de eficacia, eficiencia y profesionalimo.*
 
-
 ## Objetivos
 
-- Crear una base de datos, con la información sobre la actividad sísmica de los países Estados Unidos, Japón y México.
+- Crear una base de datos, con la información sobre la actividad sísmica de los países miembros de la alianza: Estados Unidos, Japón y México.
 - Identificar las zonas de mayor riesgo a través de la individualización de patrones y tendencias dentro de los datos.
 - Clasificar los eventos sísmicos a partir de sus características.
 - Informar sobre los posibles efectos secundarios de los eventos sísmicos conforme a su clasificación.
@@ -75,12 +74,15 @@ Para el trabajo colaborativo el equipo estará trabajando con el repositorio pú
 
 **Procesos involucrados**
 - Extracción de datos de las API:[Documentación de API - Catálogo de terremotos (usgs.gov)](https://earthquake.usgs.gov/fdsnws/event/1/) ,
-- Preprocesamiento de los
-- cargarlos a la plataforma de SnowFlakes, automatizar el procesado de la data, desplegar el modelo de clasificación de machine learning, analizar los datos obtenidos y crear un dashboard interactivo con la información clave.
+- Preprocesamiento de los datos: normalización de los mismos con Python previa a su uso.
+- Disponibilización de los datos: carga de los DataSets a la plataforma de AWS.
+- Automatización del procesado de la data.
+- Despliegue del modelo de clasificación de machine learning: analisis de los datos obtenidos.
+- Creación de un dashboard interactivo con la información clave.
 
 ### Stack Tecnológico:
 
-**Github:** A través de esta plataforma se puede organizar y controlar las distintas versiones del proyecto, integrante del equipo podrá disponer y cargar los aportes de una manera eficiente y organizada.
+**Github:** A través de esta plataforma se puede organizar y controlar las distintas versiones del proyecto, cada integrante del equipo podrá disponer y cargar los aportes de una manera eficiente y organizada.
 
 **Discord:** Mediante esta plataforma el equipo se comunica entre a diario y tome las decisiones importantes. 
 
@@ -106,7 +108,7 @@ Para la ejecución de este proyecto los 4 integrantes del equipo se dividen en 2
 
 ### Búsqueda Preliminar de Información
 
-(por completar)
+(En Proceso)
 
 Información sobre SISMOS
 

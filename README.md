@@ -6,11 +6,6 @@
 
 El presente proyecto llevado adelante por la empresa *"Analitic World"* se orienta a la *"Creación de un Sistema de Alertas Sísmicas"* que nace como parte de un proyecto mayor denominado  ***“Working towards global standardization of seismological networks and effective communication to the civilian community”***. El mismo surge del trabajo mancumunado entre el *Servicio Geológico de Estados Unidos* **USGS**, la *Agencia Meteorológica de Japón* **JMA** y el *Servicio Sismológico Nacional" de México **SSN** a fin de promover la normalización de las redes sísmicas a nivel mundial  y la comunicación eficaz a la sociedad de los eventos sísmicos.
 
-Enlaces a los sitios de las organizaciones participantes del proyecto:
-- [**USGS**](https://earthquake.usgs.gov/fdsnws/event/1/)
-- [**JMA**](https://www.data.jma.go.jp/multi/index.html?lang=es)
-- [**SSN**](http://www.ssn.unam.mx/)
-
 ## Entendimiento se la situación actual(Marco Teórico)
 
 ### ¿Qué son los sismos?
@@ -111,9 +106,18 @@ Para la ejecución de este proyecto los 4 integrantes del equipo se dividen en 2
 
 <img src=https://i.ibb.co/NxrWbn3/Crono-General-1.png>
 
-### Búsqueda Preliminar de Información
+### Extracción Transformación y Limpieza de los datos
 
-(En Proceso)
+La información a ser utilizada en el Proyecto se obtuvo de los Servicios Web de las agencias que conforman el mismo:
+- [**USGS**](https://earthquake.usgs.gov/fdsnws/event/1/)
+- [**JMA**](https://www.data.jma.go.jp/multi/index.html?lang=es)
+- [**SSN**](http://www.ssn.unam.mx/)
+
+Se seleccionaron para trabajar los siguientes campos en tres trablas, una por cada páis integrante del proyecto: USA, Japón y México.
+
+
+
+### Búsqueda Preliminar de Información
 
 Información sobre SISMOS
 

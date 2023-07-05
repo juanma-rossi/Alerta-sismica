@@ -113,9 +113,9 @@ La información a ser utilizada en el Proyecto se obtuvo de los Servicios Web de
 - [**JMA**](https://www.data.jma.go.jp/multi/index.html?lang=es)
 - [**SSN**](http://www.ssn.unam.mx/)
 
-Se seleccionaron para trabajar los siguientes campos en tres trablas, una por cada páis integrante del proyecto: USA, Japón y México.
+Se seleccionaron para trabajar que fueron almacenados en tres tablas, una para cada país participante del proyecto: USA, Japón y México.
 
-
+<img src=https://i.ibb.co/zRfW8cw/Crono-General-2.png>
 
 ### Búsqueda Preliminar de Información
 

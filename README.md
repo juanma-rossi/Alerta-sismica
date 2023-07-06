@@ -84,13 +84,13 @@ Para el trabajo colaborativo el equipo estará trabajando con el repositorio pú
 
 **Github:** A través de esta plataforma se gestiona el proyecto de manera eficiente, permite la descripción del proyecto en cada una de las etapas así como el almacenamiento de toda la documentación y el código perteneciente al mismo. [Github](https://github.com/juanma-rossi/Alerta-sismica/security)
 
-**Google Meet:** Plataforma de videoconferencia utilizada para las reuniones de monitorio del proyecto por el Project Manager y las reuniones demostrativas con el cliente. Tiene la ventaja de agendar de manera automática en el calendario de google las reuniones y comunicar las mismas a los participantes por correo electrónico.  [Google Meet] (https://meet.google.com/)
+**Google Meet:** Plataforma de videoconferencia utilizada para las reuniones de monitorio del proyecto por el Project Manager y las reuniones demostrativas con el cliente. Tiene la ventaja de agendar de manera automática en el calendario de google las reuniones y comunicar las mismas a los participantes por correo electrónico.  [Google Meet](https://meet.google.com/)
 
 **AWS:** Es la herramienta utilizada para la provisión de servicios informáticos en la nube. Seleccionada por la flexibilidad para la selección del sistema operativo, el lenguaje de programación, la plataforma de aplicaciones web y el servicio de datos. Además resulta rentable puesto que se afrontan los gastos de los recursos utilizados sin necesidad de contratos. [AWS](https://aws.amazon.com/es/) 
 
 **StreamLit:** Herramienta de visualización elegida para la comunicación de la información recopilada en el proyecto. Es un “framework” de Python de código abierto que permite desarrollar aplicaciones de manera sencilla e integrada.[Streamlit](https://streamlit.io/)
 
-**Python:** Lenguaje de Progamación principal para la manipulación de los datos. [Python] (https://www.python.org/)
+**Python:** Lenguaje de Progamación principal para la manipulación de los datos. [Python](https://www.python.org/)
 
 ### Metodología de Trabajo: 
 

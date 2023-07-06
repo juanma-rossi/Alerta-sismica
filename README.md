@@ -102,7 +102,7 @@ Para la ejecución de este proyecto los 4 integrantes del equipo se dividen en 2
 
 ### Cronograma General
 
-<img src=https://i.ibb.co/Vw6C544/Crono-General-3.png>
+<img src=>
 
 ### Extracción Transformación y Limpieza de los datos
 
@@ -113,7 +113,7 @@ La información a ser utilizada en el Proyecto se obtuvo de los Servicios Web de
 
 Los datos seleccionados para trabajar se almacenan en tres tablas, una para cada país participante del proyecto: USA, Japón y México.
 
-<img src=https://i.ibb.co/zRfW8cw/Crono-General-2.png>
+<img src=https://i.ibb.co/Vw6C544/Crono-General-3.png>
 
 ### Búsqueda Preliminar de Información
 

@@ -82,21 +82,19 @@ Para el trabajo colaborativo el equipo estará trabajando con el repositorio pú
 
 ### Stack Tecnológico:
 
-**Github:** A través de esta plataforma se puede organizar y controlar las distintas versiones del proyecto, cada integrante del equipo podrá disponer y cargar los aportes de una manera eficiente y organizada.
+**Github:** A través de esta plataforma se gestiona el proyecto de manera eficiente, permite la descripción del proyecto en cada una de las etapas así como el almacenamiento de toda la documentación y el código perteneciente al mismo. [Github](https://github.com/juanma-rossi/Alerta-sismica/security)
 
-**Discord:** Mediante esta plataforma el equipo se comunica entre a diario y tome las decisiones importantes. 
+**Google Meet:** Plataforma de videoconferencia utilizada para las reuniones de monitorio del proyecto por el Project Manager y las reuniones demostrativas con el cliente. Tiene la ventaja de agendar de manera automática en el calendario de google las reuniones y comunicar las mismas a los participantes por correo electrónico.  [Google Meet] (https://meet.google.com/)
 
-**Google Meet:** Plataforma para presentarle al project manager el estado de las tareas y objetivos.
+**AWS:** Es la herramienta utilizada para la provisión de servicios informáticos en la nube. Seleccionada por la flexibilidad para la selección del sistema operativo, el lenguaje de programación, la plataforma de aplicaciones web y el servicio de datos. Además resulta rentable puesto que se afrontan los gastos de los recursos utilizados sin necesidad de contratos. [AWS](https://aws.amazon.com/es/) 
 
-**AWS:** Como recurso de almacenamiento y procesamiento de la data desde la nube.
+**StreamLit:** Herramienta de visualización elegida para la comunicación de la información recopilada en el proyecto. Es un “framework” de Python de código abierto que permite desarrollar aplicaciones de manera sencilla e integrada.[Streamlit](https://streamlit.io/)
 
-**Power Bi:** Herramienta de Visualización de los datos para comunicar el resultado de los análisis.
+**Python:** Lenguaje de Progamación principal para la manipulación de los datos. [Python] (https://www.python.org/)
 
-**Python:** Lenguaje de Progamación principal para la manipulación de los datos.
+### Metodología de Trabajo: 
 
-### Metodología de Trabajo
-
-La metodología de trabajo a utilizar se denomina scrum, entra dentro de las metodologías ágiles.
+Para la ejecución del proyecto los integrantes del equipo conforman dos grupos uno de Data Engineer y otro de Data Analyst. En función a los roles asumidos se realiza la asignación de tareas. El seguimiento de las tareas y el avance el proyecto se lleva adelante mediante un sistema de tarjetas kanban en github además de reuniones diarias para la toma de decisiones al interior del equipo y con elProject Manager
 
 ### Equipo de Trabajo
 

@@ -102,7 +102,7 @@ Para la ejecución de este proyecto los 4 integrantes del equipo se dividen en 2
 
 ### Cronograma General
 
-<img src=https://i.ibb.co/NxrWbn3/Crono-General-1.png>
+<img src=https://i.ibb.co/Vw6C544/Crono-General-3.png>
 
 ### Extracción Transformación y Limpieza de los datos
 

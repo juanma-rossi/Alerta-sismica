@@ -113,7 +113,7 @@ La información a ser utilizada en el Proyecto se obtuvo de los Servicios Web de
 
 Los datos seleccionados para trabajar se almacenan en tres tablas, una para cada país participante del proyecto: USA, Japón y México.
 
-<img src=https://i.ibb.co/Vw6C544/Crono-General-3.png>
+<img src=https://i.ibb.co/KNkh9Yz/Crono-General-5.png>
 
 ### Búsqueda Preliminar de Información
 
